@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Asadabidi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in python artificial intelegence 
+- 🌱 I’m currently learning Ai,ml,dl,iot
+- 💞️ I’m looking to collaborate on above mentioned technologies project
+
+- 📫 How to reach me via email salarabidi110@gmail.com 
 
 <!---
 Asadabidi/Asadabidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
